@@ -1,0 +1,5 @@
+To make transfer from BTC to IOTA one must hover Trading -> IOTA/BTC click
+
+In the left small box called Order Form you should put number of IOTAs you want to buy in the AMOUNT MI input and click Exchange Buy
+
+Thats it
