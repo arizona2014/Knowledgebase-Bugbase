@@ -1,0 +1,3 @@
+Translate files on device : the link to files should be like this TranslateHttpLoader(http, "assets/i18n/", ".json") not like this TranslateHttpLoader(http, "../assets/i18n/", ".json");
+
+Translate files on local : the link to files should be like this TranslateHttpLoader(http, "../assets/i18n/", ".json") not like this TranslateHttpLoader(http, "assets/i18n/", ".json");
