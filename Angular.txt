@@ -1,0 +1,8 @@
+Angular 4 ng serve dont working
+generated a new project with ng new ... and when tryed to ng serve, it showed me an error about @angular/cli
+
+Solutions :
+
+1. update typescript ko
+2. update @angular/cli ko
+3 inserted in package.json  "@ng-bootstrap/ng-bootstrap": "^1.0.0-beta.5",  dependency   OK
